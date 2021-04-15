@@ -1,5 +1,6 @@
 package api;
 
+
 public interface Logger {
     void setName(String name);
 
